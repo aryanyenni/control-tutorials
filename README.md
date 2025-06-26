@@ -7,9 +7,11 @@ This repository is designated for learning and understanding modeling and analys
 - use and experiment with known control systems (i.e. cruise control, suspsension, aircraft pitch, etc.)
 
 ## Files
+- '%%%.mlx' - MathWorks documentation live script files
 
 ## References
 - [University Documentation] https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SystemModeling
+- [MathWorks Documentation] https://www.mathworks.com/campaigns/products/control-tutorials.html#system-modeling
 - My understanding of physics (mechanics, dynamics, circuits, etc.) and math (calculus of differential equations)
 
 ## Author
